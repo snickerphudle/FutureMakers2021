@@ -17,3 +17,5 @@ In Dr. David Kong's talk about leadership today, I learned about what it means t
 ### Day 3: July 8, 2021
 
 In supervised learning, the data is labeled, the model learns from feedback, and the model is expected to predict an outcome, either regression or classification. The goal of supervised learning is to create a model that can classify data or predict outcomes accurately based on labeled input and output. Overtime, the model can measure its own accuracy and gradually learn. In unsupervised learning, the model uses algorithms to analyze unlabeled data sets and draw patterns between them without the need of human intervention. Some examples of unsupervised learning are clustering, association, and dimensionality reduction. Skikit Learn is used mainly for machine learning calculations and modelling. Other libraries must be used ot visualize the data.
+
+hello tiffany
