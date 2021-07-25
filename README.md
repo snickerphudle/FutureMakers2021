@@ -24,7 +24,11 @@ A problem that can be solved with machine learning is the recognition of skin pr
 
 ### Day 7: July 18, 2021
 
-The specific definition of a tensor varies very much depending on which field it is being applied too as well as who you ask. For the purposes of machine learning, a tensor is a general term that encapsulates vectors and matrices in any dimension. In order for machines to learn, there must be sufficient data to do so. However, modern data is rarely limited to just 3 dimensions, therefore tensors provide a way to represent information and store data in a multimensional space.
+The specific definition of a tensor varies very much depending on which field it is being applied too as well as who you ask. For the purposes of machine learning, a tensor is a general term that encapsulates vectors and matrices in any dimension. In order for machines to learn, there must be sufficient data to do so. However, modern data is rarely limited to just 3 dimensions, therefore tensors provide a way to represent information and store data in a multimensional space. The computations I ran were quite fast.
+
+### Day 8: July 25, 2021
+
+Today I worked with Arezoo to go over the sarcasm detection notebook. Today I learned that the pandas library has an object called a dataframe, which can store data in a very convenient way. Not only can you easily print the dataframe and make it look nice using headline, but you can also access columns using ['feature']. Furthermore, there are many different tasks in machine learning, and each task uses different functions and approaches. For example, for computer vision, CNNs use convolutions and pooling. For NLP/sarcasm detection, tokenizers and embedding layers are used. A tokenizer takes every word in a string and assigns it to a dictionary with an index by frequency. tokenizer.texts_to_sequences creates a tensor which maps every word in a string to an aarry with a number based on its index in the dictionary.
 
 ### Day 10: July 15, 2021
 
