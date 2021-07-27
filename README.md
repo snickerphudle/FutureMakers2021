@@ -64,3 +64,6 @@ To combat overfitting, there are several methods. One such method to do so is re
 
 ### Day 15: July 20, 2021
 Some advantages of ReLU are that it is very simplistic, only requiring a max function, it helps circumvent the problem of vanishing gradient descent (acts linear to help the backpropagation process, but is nonlinear to help learn complex relationships), and is not sensitive to values close to zero. This allows models to learn more quickly and efficiently, while not being stuck on the problems associated with sigmoid and tanh. Common uses of ReLU include CNN and MLP, although it is not normally used in RNN.
+
+### Day 16: July 20, 2021
+Today I created a neural network to identify male or female voices.
