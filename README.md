@@ -44,6 +44,10 @@ In the game Survival of the Best Fit, there was an algorithm that disproportiona
 
 Another example of a biased machine learning model is a model that determines one's salary based on certain features. This model could be biased be awarding certain people with more pay just because they possess a particular protected attribute that another person may not have. This model can be more fair or equitable by not including features of protected attributes, collecting data ethically and randomly, annotating the data with objective/hard metrics, doing a test blind experiment, etc. I chose this particular model because I know that women have historically been paid less than men. Instead of basing payment on subjective factors, a machine learning model that awards people for doing good work according to high metrics and efficiency should be rewarded, but only if the machine is not biased.
 
+### Day 11: July 16, 2021
+
+A convolutional neural network (CNN) and a Fully Connected Neural Network (ANN) are different. A CNN consists of convolution layers, pooling layers, flattening layers, and a fully connected neural network at the end. CNNs are developed mainly for computer vision and image analysis, especially classification. CNNs work by taking in input images, extracting features by performing convolution operations on the pixels, downsampling/generalizing the data using pooling, and finally flattening the feature maps into a vector which will be used by the CNN. One large advantage that CNNs have over MLP is that CNNs consider groups of pixels to determine features as opposed to individual pixels, which MLPs do. This allows the CNN to better recognize image features. Furthermore, CNNs learn by updating not only the weights in the fully connected layer, but also searching for the most optimal values for the filter/kernel.
+
 ### Day 14: July 19, 2021
 
 Today I learned about cost functions, mini-batches, bias, variance, regularization, and gradient descent. In machine learning, cost functions are a calculation of how much error is produced from your model compared to the actual target value. 
