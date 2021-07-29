@@ -68,7 +68,10 @@ Some advantages of ReLU are that it is very simplistic, only requiring a max fun
 ### Day 16: July 20, 2021
 Today I created a neural network to identify male or female voices. While creating the network, I learned about a lot of new functions that are useful for creating it. For example, the seaborn.countplot function creates a graph that shows the frequency of the labels. Furthermore, the pd.read_csv is used to read in data. This is very useful for visualizing raw input data and determining how to process it. Something substantially useful and new that I learned from this notebook is the experimentation phase of creating models. In the notebook, there were arrays for standardization and dropout, which contained a variety of values. The notebook then runs a loop through all the models while recording the accuracy. At the end, it is very easy to see the results and compare which hyperparameters were best.
 
-### Day 18: July 29, 2021
+### Day 17: July 29, 2021
+Today I created a CNN model that can classify dogs and cats.
+
+### Day 18: July 28, 2021
 Today I created a NLP model that determines whether a Twitter comment is negative, positive, or neutral.
 
 ### Day 21: July 29, 2021
