@@ -76,3 +76,16 @@ Today I created a NLP model that determines whether a Twitter comment is negativ
 
 ### Day 21: July 29, 2021
 Today I made an autoencoder. I learned that there are multiple ways to create neural networks. So far, we have been creating models using the Sequential wrapper, but I learned that the native TensorFlow way of creating models is better for more complex networks. Using the sequential wrapper, all layers pass data in a linear fashion from one output node to the next input node. However, in more complex models, data sometimes splits to other layers or multiple layers, which is why it's better to code the model in the TensorFlow way to achieve these complex models.
+
+### Day 22: July 27, 2021
+d
+
+### Day 23: July 28, 2021
+d
+
+### Day 24: July 29, 2021
+f
+
+### Day 25: July 20, 2021
+f
+
