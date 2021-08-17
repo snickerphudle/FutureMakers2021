@@ -81,7 +81,9 @@ Today I made an autoencoder. I learned that there are multiple ways to create ne
 Today I created a classification model that can analyze a audio clip and decide what type of emotion is being expressed in the audio file. Using the help of GitHub user MITESHPUTHRANNEU's repo, I was able to create a model that performed accurately produces the correct result about 70% of the time. In the modern day and age, affective computing can be applied to a variety of fields, such as improving security, mental health, and more. By analyzing how a person feels, the machine can adequately provide support by offering options to maintain that person's happiness or reducing ill-mannered feelings.
 
 ### Day 23: July 28, 2021
-d
+Today I created a NLP model that can classify whether a given movie review is positive or negative. The model I created was in conjunction with a TensorFlow tutorial on NLP. This particular model used a dropout of 0.5, early stopping of patience 5, batch size 625, and 10 epochs. 
+
+Some large concerns about large NLP models include the bias against certain gender, racial, and LGBTQIA+ groups. Large NLP models learn from very large datasets created by humans, meaning that overtime it may pick up bias against certain groups, which is not how it should ideally be performing. Furthermore, this powerful technology could easily be misused to create fake news, hate messages, etc. Before large models like these are used commonly, questions regarding these topics must be answered and solutions against them must be developed.
 
 ### Day 24: July 29, 2021
 f
