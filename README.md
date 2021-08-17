@@ -78,7 +78,7 @@ Today I created a NLP model that determines whether a Twitter comment is negativ
 Today I made an autoencoder. I learned that there are multiple ways to create neural networks. So far, we have been creating models using the Sequential wrapper, but I learned that the native TensorFlow way of creating models is better for more complex networks. Using the sequential wrapper, all layers pass data in a linear fashion from one output node to the next input node. However, in more complex models, data sometimes splits to other layers or multiple layers, which is why it's better to code the model in the TensorFlow way to achieve these complex models.
 
 ### Day 22: July 27, 2021
-d
+Today I created a classification model that can analyze a audio clip and decide what type of emotion is being expressed in the audio file. Using the help of GitHub user MITESHPUTHRANNEU's repo, I was able to create a model that performed accurately produces the correct result about 70% of the time. In the modern day and age, affective computing can be applied to a variety of fields, such as improving security, mental health, and more. By analyzing how a person feels, the machine can adequately provide support by offering options to maintain that person's happiness or reducing ill-mannered feelings.
 
 ### Day 23: July 28, 2021
 d
