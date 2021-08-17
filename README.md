@@ -86,8 +86,8 @@ Today I created a NLP model that can classify whether a given movie review is po
 Some large concerns about large NLP models include the bias against certain gender, racial, and LGBTQIA+ groups. Large NLP models learn from very large datasets created by humans, meaning that overtime it may pick up bias against certain groups, which is not how it should ideally be performing. Furthermore, this powerful technology could easily be misused to create fake news, hate messages, etc. Before large models like these are used commonly, questions regarding these topics must be answered and solutions against them must be developed.
 
 ### Day 24: July 29, 2021
-f
+Today I created an image classification model that can tell whether you are happy, sad, angry, fearful, or surprised.
 
 ### Day 25: July 20, 2021
-f
-
+Today I watched the Summer 2020 Createathon Final Presentation videos to get a better understanding of the product we will eventually create at the end of the program. Some ideas I have for the final project include food waste, forest fire prevention, and a smart water bottle.
+ 
