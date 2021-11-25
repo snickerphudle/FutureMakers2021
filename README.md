@@ -20,8 +20,8 @@ The first part of the program was the training phase, where I learned key machin
 |       |       |       |   1   |   2   |   3   |   4   |
 | 5                     |   [6](#day-1-july-6-2021)   |   [7](#day-2-july-7-2021)   |   [8](#day-3-july-8-2021)   |   [9](#day-4-july-9-2021)   |   10  |   11  |
 |[12](#day-7-july-12-2021)|[13](#day-8-july-13-2021)|[14](#day-9-july-14-2021)|[15](#day-10-july-15-2021)|[16](#day-11-july-16-2021)|   17  |   18  |
-|   19  |   20  |   21  |   22  |   23  |   24  |   25  |
-|   26  |   27  |   28  |   29  |   30  |   31  |       |
+|[19](#day-14-july-19-2021)|   20  |   21  |   22  |   23  |   24  |   25  |
+|   26  |   27  |   28  |[29](#day-21-july-29-2021)|   30  |   31  |       |
 
 ### August 2021
 |  Sun  |  Mon  |  Tue  |  Wed  |  Thu  |  Fri  |  Sat  | 
