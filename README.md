@@ -16,13 +16,23 @@ The program includes:
 
 The first part of the program was the training phase, where I learned key machine learning concepts. The final two weeks were dedicated to the Create-a-thon, a [hackathon](https://static1.squarespace.com/static/5f45536caa356e6ab51588f4/t/6107c33cc9c0836c362dec4f/1627898684269/MIT_FutureMakers_2021_Themes.pdf) focused around designing solutions to relevant problems post-pandemic. For this event, my team and I designed [Automatic Inventory](https://github.com/snickerphudle/AutomaticInventory), an intelligent food systems manager that uses computer vision, object detection, and image segmentation to recognize pantry items and help reduce food waste. For this project, we addressed equitable resource allocation prompt.
 
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat | 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  1  |  2  |  3  |  4  |  5  |  6  |  7  |
-|  8  |  9  |  10 |  11  |  12  |  13  |  14  |
-| 15   | 16   |  17  | 18   |   19 |  20  |  21  |
-| 22   |  23  |  24  | 25   | 26    |  27  |  28  |
-|   29 | 30   | 31   |    |    |    |    |
+### July 2021
+|  Sun  |  Mon  |  Tue  |  Wed  |  Thu  |  Fri  |  Sat  | 
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|       |       |       |   1   |   2   |   3   |   4   |
+|   5   |   6   |   7   |   8   |   9   |   10  |   11  |
+|   12  |   13  |   14  |   15  |   16  |   17  |   18  |
+|   19  |   20  |   21  |   22  |   23  |   24  |   25  |
+|   26  |   27  |   28  |   29  |   30  |   31  |       |
+
+### August 2021
+|  Sun  |  Mon  |  Tue  |  Wed  |  Thu  |  Fri  |  Sat  | 
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|   1   |   2   |   3   |   4   |   5   |   6   |   7   |
+|   8   |   9   |   10  |   11  |   12  |   13  |   14  |
+|   15  |   16  |   17  |   18  |   19  |   20  |   21  |
+|   22  |   23  |   24  |   25  |   26  |   27  |   28  |
+|   29  |   30  |   31  |       |       |       |       |
 
 
 ## Reflection Responses
