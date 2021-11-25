@@ -18,8 +18,8 @@ The first part of the program was the training phase, where I learned key machin
 |  Sun  |  Mon  |  Tue  |  Wed  |  Thu  |  Fri  |  Sat  | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |       |       |       |   1   |   2   |   3   |   4   |
-|   5   |   [6](#day-1-july-6-2021)   |   [7](#day-2-july-7-2021)   |   [8](#day-3-july-8-2021)   |   [9](#day-4-july-9-2021)   |   10  |   11  |
-|   12  |   13  |   14  |   15  |   16  |   17  |   18  |
+| 5                     |   [6](#day-1-july-6-2021)   |   [7](#day-2-july-7-2021)   |   [8](#day-3-july-8-2021)   |   [9](#day-4-july-9-2021)   |   10  |   11  |
+|[12](#day-7-july-12-2021)|[13](#day-8-july-13-2021)|[14](#day-9-july-14-2021)|[15](#day-10-july-15-2021)|[16](#day-11-july-16-2021)|   17  |   18  |
 |   19  |   20  |   21  |   22  |   23  |   24  |   25  |
 |   26  |   27  |   28  |   29  |   30  |   31  |       |
 
@@ -51,15 +51,15 @@ In supervised learning, the data is labeled, the model learns from feedback, and
 
 A problem that can be solved with machine learning is the recognition of skin problems, particularly acne. Everyone has a different skin type, whether it be oily, combination, or dry. Furthermore, some people have different skin problems such as lesions, whiteheads, cysts, etc. Using machine learning, we can identify the type of skin a patient has, which will help doctors identify a course of action to counteract those skin problems. If I were developing a model to solve this problem, I would most likely use a CNN to classify and identify the skin problems on someone's face. A dataset I could use to train the model comes from https://archive.ics.uci.edu/ml/machine-learning-databases/00229/
 
-### Day 7: July 18, 2021
+### Day 7: July 12, 2021
 
 The specific definition of a tensor varies very much depending on which field it is being applied too as well as who you ask. For the purposes of machine learning, a tensor is a general term that encapsulates vectors and matrices in any dimension. In order for machines to learn, there must be sufficient data to do so. However, modern data is rarely limited to just 3 dimensions, therefore tensors provide a way to represent information and store data in a multimensional space. The computations I ran were quite fast.
 
-### Day 8: July 25, 2021
+### Day 8: July 13, 2021
 
 Today I worked with Arezoo to go over the sarcasm detection notebook. Today I learned that the pandas library has an object called a dataframe, which can store data in a very convenient way. Not only can you easily print the dataframe and make it look nice using headline, but you can also access columns using ['feature']. Furthermore, there are many different tasks in machine learning, and each task uses different functions and approaches. For example, for computer vision, CNNs use convolutions and pooling. For NLP/sarcasm detection, tokenizers and embedding layers are used. A tokenizer takes every word in a string and assigns it to a dictionary with an index by frequency. tokenizer.texts_to_sequences creates a tensor which maps every word in a string to an aarry with a number based on its index in the dictionary.
 
-### Day 9: July 26, 2021
+### Day 9: July 14, 2021
 
 Today I built a number recognition neural network CNN which can identify numbers from the MNIST dataset.
 
