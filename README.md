@@ -1,8 +1,6 @@
 # MIT FutureMakers 2021
 
 ### Start Date: July 6, 2021
-### William Nguyen
-### Team 7
 
 The MIT FutureMakers Deep Learning Program is a 6-week virtual program designed by [SureStart](https://mysurestart.com/) and [MIT Raise](https://raise.mit.edu/) to learn AI concepts, work with machine learning models and get hands-on experience applying those concepts to solve real world problems.
 
