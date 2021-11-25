@@ -18,7 +18,7 @@ The first part of the program was the training phase, where I learned key machin
 |  Sun  |  Mon  |  Tue  |  Wed  |  Thu  |  Fri  |  Sat  | 
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |       |       |       |   1   |   2   |   3   |   4   |
-|   5   |   [6](day-1-july-7-2021)   |   7   |   8   |   9   |   10  |   11  |
+|   5   |   [6](day-1-july-6-2021)   |   [7](day-2-july-7-2021)   |   [8](day-3-july-8-2021)   |   [9](day-4-july-9-2021)   |   10  |   11  |
 |   12  |   13  |   14  |   15  |   16  |   17  |   18  |
 |   19  |   20  |   21  |   22  |   23  |   24  |   25  |
 |   26  |   27  |   28  |   29  |   30  |   31  |       |
@@ -47,7 +47,7 @@ In Dr. David Kong's talk about leadership today, I learned about what it means t
 
 In supervised learning, the data is labeled, the model learns from feedback, and the model is expected to predict an outcome, either regression or classification. The goal of supervised learning is to create a model that can classify data or predict outcomes accurately based on labeled input and output. Overtime, the model can measure its own accuracy and gradually learn. In unsupervised learning, the model uses algorithms to analyze unlabeled data sets and draw patterns between them without the need of human intervention. Some examples of unsupervised learning are clustering, association, and dimensionality reduction. Skikit Learn is used mainly for machine learning calculations and modelling. Other libraries must be used to visualize the data.
 
-### Day 4: July 20, 2021
+### Day 4: July 9, 2021
 
 A problem that can be solved with machine learning is the recognition of skin problems, particularly acne. Everyone has a different skin type, whether it be oily, combination, or dry. Furthermore, some people have different skin problems such as lesions, whiteheads, cysts, etc. Using machine learning, we can identify the type of skin a patient has, which will help doctors identify a course of action to counteract those skin problems. If I were developing a model to solve this problem, I would most likely use a CNN to classify and identify the skin problems on someone's face. A dataset I could use to train the model comes from https://archive.ics.uci.edu/ml/machine-learning-databases/00229/
 
