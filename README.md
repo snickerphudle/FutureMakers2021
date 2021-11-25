@@ -1,8 +1,20 @@
-# FutureMakers2021
+# MIT FutureMakers 2021
 
-### Program Start: July 6, 2021
+### Start Date: July 6, 2021
 ### William Nguyen
 ### Team 7
+
+The MIT FutureMakers Deep Learning Program is a 6-week virtual program designed by [SureStart](https://mysurestart.com/) and [MIT Raise](https://raise.mit.edu/) to learn AI concepts, work with machine learning models and get hands-on experience applying those concepts to solve real world problems.
+
+The program includes:
+
+- Learning AI, machine learning and emotion AI concepts
+- Turning skills into confidence through building AI solutions hands-on
+- Consistent support and encouragement from a mentor 1-1
+- Regular tech talks and career readiness seminars
+- Entrepreneurship and leadership skills development
+
+The first part of the program was the training phase, where I learned key machine learning concepts. The final two weeks were dedicated to the Create-a-thon, a [hackathon](https://static1.squarespace.com/static/5f45536caa356e6ab51588f4/t/6107c33cc9c0836c362dec4f/1627898684269/MIT_FutureMakers_2021_Themes.pdf) focused around designing solutions to relevant problems post-pandemic. For this event, my team and I designed [Automatic Inventory](https://github.com/snickerphudle/AutomaticInventory), an intelligent food systems manager that uses computer vision, object detection, and image segmentation to recognize pantry items and help reduce food waste. For this project, we addressed equitable resource allocation prompt.
 
 ## Reflection Responses
 
