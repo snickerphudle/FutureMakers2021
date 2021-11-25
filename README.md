@@ -15,23 +15,13 @@ The program includes:
 The first part of the program was the training phase, where I learned key machine learning concepts. The final two weeks were dedicated to the Create-a-thon, a [hackathon](https://static1.squarespace.com/static/5f45536caa356e6ab51588f4/t/6107c33cc9c0836c362dec4f/1627898684269/MIT_FutureMakers_2021_Themes.pdf) focused around designing solutions to relevant problems post-pandemic. For this event, my team and I designed [Automatic Inventory](https://github.com/snickerphudle/AutomaticInventory), an intelligent food systems manager that uses computer vision, object detection, and image segmentation to recognize pantry items and help reduce food waste. For this project, we addressed equitable resource allocation prompt.
 
 ### July 2021
-|  Sun  |  Mon  |  Tue  |  Wed  |  Thu  |  Fri  |  Sat  | 
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|       |       |       |   1   |   2   |   3   |   4   |
-| 5                     |   [6](#day-1-july-6-2021)   |   [7](#day-2-july-7-2021)   |   [8](#day-3-july-8-2021)   |   [9](#day-4-july-9-2021)   |   10  |   11  |
-|[12](#day-7-july-12-2021)|[13](#day-8-july-13-2021)|[14](#day-9-july-14-2021)|[15](#day-10-july-15-2021)|[16](#day-11-july-16-2021)|   17  |   18  |
-|[19](#day-14-july-19-2021)|   20  |   21  |   22  |   23  |   24  |   25  |
-|   26  |   27  |   28  |[29](#day-21-july-29-2021)|   30  |   31  |       |
-
-### August 2021
-|  Sun  |  Mon  |  Tue  |  Wed  |  Thu  |  Fri  |  Sat  | 
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|   1   |   2   |   3   |   4   |   5   |   6   |   7   |
-|   8   |   9   |   10  |   11  |   12  |   13  |   14  |
-|   15  |   16  |   17  |   18  |   19  |   20  |   21  |
-|   22  |   23  |   24  |   25  |   26  |   27  |   28  |
-|   29  |   30  |   31  |       |       |       |       |
-
+|            Sun           |            Mon           |            Tue           |            Wed           |            Thu           |  Fri  |  Sat  | 
+|:------------------------:|:------------------------:|:------------------------:|:------------------------:|:------------------------:|:-----:|:-----:|
+|                          |                          |                          |             1            |             2            |   3   |   4   |
+|             5            |[6](#day-1-july-6-2021)   |[7](#day-2-july-7-2021)   |[8](#day-3-july-8-2021)   |[9](#day-4-july-9-2021)   |   10  |   11  |
+|[12](#day-7-july-12-2021) |[13](#day-8-july-13-2021) |[14](#day-9-july-14-2021) |[15](#day-10-july-15-2021)|[16](#day-11-july-16-2021)|   17  |   18  |
+|[19](#day-14-july-19-2021)|[20](#day-15-july-20-2021)|[21](#day-16-july-21-2021)|[22](#day-17-july-22-2021)|[23](#day-18-july-22-2021)|   24  |   25  |
+|[26](#day-21-july-26-2021)|[27](#day-22-july-27-2021)|[28](#day-23-july-28-2021)|[29](#day-24-july-29-2021)|             30           |   31  |       |
 
 ## Reflection Responses
 
@@ -94,16 +84,16 @@ To combat overfitting, there are several methods. One such method to do so is re
 ### Day 15: July 20, 2021
 Some advantages of ReLU are that it is very simplistic, only requiring a max function, it helps circumvent the problem of vanishing gradient descent (acts linear to help the backpropagation process, but is nonlinear to help learn complex relationships), and is not sensitive to values close to zero. This allows models to learn more quickly and efficiently, while not being stuck on the problems associated with sigmoid and tanh. Common uses of ReLU include CNN and MLP, although it is not normally used in RNN.
 
-### Day 16: July 20, 2021
+### Day 16: July 21, 2021
 Today I created a neural network to identify male or female voices. While creating the network, I learned about a lot of new functions that are useful for creating it. For example, the seaborn.countplot function creates a graph that shows the frequency of the labels. Furthermore, the pd.read_csv is used to read in data. This is very useful for visualizing raw input data and determining how to process it. Something substantially useful and new that I learned from this notebook is the experimentation phase of creating models. In the notebook, there were arrays for standardization and dropout, which contained a variety of values. The notebook then runs a loop through all the models while recording the accuracy. At the end, it is very easy to see the results and compare which hyperparameters were best.
 
-### Day 17: July 29, 2021
+### Day 17: July 22, 2021
 Today I created a CNN model that can classify dogs and cats.
 
-### Day 18: July 28, 2021
+### Day 18: July 23, 2021
 Today I created a NLP model that determines whether a Twitter comment is negative, positive, or neutral.
 
-### Day 21: July 29, 2021
+### Day 21: July 26, 2021
 Today I made an autoencoder. I learned that there are multiple ways to create neural networks. So far, we have been creating models using the Sequential wrapper, but I learned that the native TensorFlow way of creating models is better for more complex networks. Using the sequential wrapper, all layers pass data in a linear fashion from one output node to the next input node. However, in more complex models, data sometimes splits to other layers or multiple layers, which is why it's better to code the model in the TensorFlow way to achieve these complex models.
 
 ### Day 22: July 27, 2021
@@ -117,6 +107,6 @@ Some large concerns about large NLP models include the bias against certain gend
 ### Day 24: July 29, 2021
 Today I created an image classification model that can tell whether you are happy, sad, angry, fearful, or surprised.
 
-### Day 25: July 20, 2021
-Today I watched the Summer 2020 Createathon Final Presentation videos to get a better understanding of the product we will eventually create at the end of the program. Some ideas I have for the final project include food waste, forest fire prevention, and a smart water bottle.
+### Weeks 5 & 6: July 31, 2021 - August 13, 2021
+During the final weeks of the program, my team and I applied the concepts we learned to create an intelligent food systems manager, [Automatic Inventory](https://github.com/snickerphudle/AutomaticInventory).
  
